@@ -1,4 +1,4 @@
-#include "Union-find.h"
+#include "UnionFind.h"
 #include <iostream>
 #include <vector>
 #include <cmath>
